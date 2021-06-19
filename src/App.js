@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
       <h1>POKE UPP</h1>
 
-      <PokeFetch/>
+        <PokeFetch/>
         <img src={logo} className="App-logo" alt="logo" />
         
         
